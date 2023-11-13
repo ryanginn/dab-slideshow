@@ -22,3 +22,5 @@ Pillow (``pip install pillow``)
 Requests (``pip install requests``)
 Datetime (``pip install datetime``)
 ```
+### Install
+Download latest release from [here]()
