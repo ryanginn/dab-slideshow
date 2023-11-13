@@ -18,9 +18,9 @@ dab-slideshow could be used in a DAB+ mux, alongside other slideshow images, suc
 ```
 Any Operating System that supports Python
 Python 3.11 or newer
-Pillow (``pip install pillow``)
-Requests (``pip install requests``)
-Datetime (``pip install datetime``)
+Pillow (pip install pillow)
+Requests (pip install requests)
+Datetime (pip install datetime)
 ```
 ### Install
 Download latest release from [here](https://github.com/ryanginn/dab-slideshow/releases/tag/main)
