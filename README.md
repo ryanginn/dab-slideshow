@@ -3,7 +3,7 @@ Make smarter DAB slideshows!
 
 Examples of use include:
 
-![Example of use in the Netherlands](https://i.ibb.co/26x83Ps/output.jpg) ![Example of use in Netherlands](https://i.ibb.co/72QG4xc/output.jpg)
+![Example of use in the Netherlands](https://i.ibb.co/26x83Ps/output.jpg) ![Example of use in Netherlands](https://i.ibb.co/72QG4xc/output.jpg) ![Example of use on trial DAB multiplex](https://i.ibb.co/NWM5jLW/output.jpg)
 
 ## What does it do?
 dab-slideshow is a project designed to recreate DAB slideshows such as Bayern 1's slideshow, which includes now playing information.
