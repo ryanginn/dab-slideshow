@@ -15,12 +15,16 @@ dab-slideshow uses the Azuracast API (currently) to grab song information, I may
 dab-slideshow could be used in a DAB+ mux, alongside other slideshow images, such as station contact details, I have tried it in OpenDigitalRadio and it works well.
 
 ### Prerequisites
-```
-Any Operating System that supports Python
+Any Operating System that supports Python <br>
 Python 3.11 or newer
-Pillow (pip install pillow)
-Requests (pip install requests)
-Datetime (pip install datetime)
+```
+pip install pillow
+```
+```
+pip install requests
+```
+```
+pip install datetime
 ```
 ### Install
 Download latest release from [here](https://github.com/ryanginn/dab-slideshow/releases/tag/main)
