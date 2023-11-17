@@ -27,7 +27,7 @@ pip install requests
 pip install datetime
 ```
 ### Install
-Download latest release from [here](https://github.com/ryanginn/dab-slideshow/releases/tag/main)<br>
+Download latest release from [here](https://github.com/ryanginn/dab-slideshow/releases/tag/stable)<br>
 Extract .zip file into any folder, doesn't matter<br>
 Download a font you wish to use (does not come pre-installed)<br>
 Edit run.py to suit your needs.<br>
