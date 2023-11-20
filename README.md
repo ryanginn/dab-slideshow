@@ -16,6 +16,7 @@ dab-slideshow could be used in a DAB+ mux, alongside other slideshow images, suc
 
 ### Prerequisites
 Any OS that supports Python (Windows, Mac, Linux, etc) <br>
+Background image that is 320x240px resolution, under 10KB in JPG form <br>
 Python 3.11 or newer
 ```
 pip install pillow
