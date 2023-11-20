@@ -34,6 +34,16 @@ pip install datetime
 Download latest release from [here](https://github.com/ryanginn/dab-slideshow/releases/tag/stable)<br>
 Extract .zip file into any folder, doesn't matter<br>
 Download a font you wish to use (does not come pre-installed)<br>
+Configure dab-broadcast.conf <br>
 Edit run.py to suit your needs.<br>
+
+### Use with other standards?
+
+In theory, dab-slideshow can be modified to be used with HD Radio (DRM uses the same size slideshow so you do not need to modify anything), all you need to modify is the following 
+<br>
+- Resolution of image
+- Position of text
+- Size of image
+HD Radio supports 200x200px with a maximum size of 24 KB.
 
 If any issues arise, please leave an issue and I will look into it. Thanks!
