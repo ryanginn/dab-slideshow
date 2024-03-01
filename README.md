@@ -1,18 +1,18 @@
 # dab-slideshow
-Make smarter DAB slideshows!
+Make smarter slideshows for DAB+ ensembles!
 
 Examples of use include:
 
 ![Example of use in the Netherlands](https://i.ibb.co/26x83Ps/output.jpg) ![Example of use on trial DAB multiplex](https://i.ibb.co/NWM5jLW/output.jpg)
 
 ## What does it do?
-dab-slideshow is a project designed to recreate DAB slideshows such as Bayern 1's slideshow, which includes now playing information.
+dab-slideshow is a project designed to recreate DAB MOT slideshows such as Bayern 1's slideshow, which includes now playing information.
 
 ![Example](https://github.com/ryangontv/dab-slideshow/assets/98589683/223798f2-ddb5-4d7d-a12d-063ceb36ffdf)
 
 
 ## How does it work? 
-dab-slideshow uses the Azuracast API or the Icecast 2 API to fetch now playing data and includes it on an image compatible with DAB+ MOT slideshows.
+dab-slideshow can use the Azuracast API or the Icecast 2 API to fetch now playing data and includes it on an image compatible with DAB+ MOT slideshows.
 
 ## Potential use case?
 dab-slideshow could be used in a DAB+ mux, alongside other slideshow images, such as station contact details, I have tried it in OpenDigitalRadio and it works well.
