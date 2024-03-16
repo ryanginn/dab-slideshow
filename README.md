@@ -39,7 +39,7 @@ Edit run.py to suit your needs.<br>
 
 ### Use with other standards?
 
-In theory, dab-slideshow can be modified to be used with HD Radio (DRM uses the same size slideshow so you do not need to modify anything), all you need to modify is the following 
+In theory, dab-slideshow can be modified to be used with HD Radio (DRM uses the same size slideshow as DAB, so you do not need to modify anything), all you need to modify is the following 
 <br>
 - Resolution of image
 - Position of text
